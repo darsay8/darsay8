@@ -24,7 +24,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />](https://sass-lang.com/)
-[<img align="left" alt="Pug" width="26px" src="./images/icons/pug.svg" />](https://pugjs.org/api/getting-started.html)
+[<img align="left" alt="Pug" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-svg-vector.svg" />](https://pugjs.org/api/getting-started.html)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/)
 
 </br>
@@ -50,7 +50,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rob | Behance" width="22px" src="https://cdn.icon-icons.com/icons2/1584/PNG/512/3721681-behance_108059.png" />][behance]
+[<img align="left" alt="Rob | Behance" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/behance-1-logo-svg-vector.svg" />][behance]
 [<img align="left" alt="Rob | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" />][twitter]
 [<img align="left" alt="Rob | Intagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][instagram]
 [<img align="left" alt="Rob | Linkedin" width="22px" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png" />][linkedin]

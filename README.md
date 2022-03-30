@@ -26,6 +26,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />](https://sass-lang.com/)
 [<img align="left" alt="Pug" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-svg-vector.svg" />](https://pugjs.org/api/getting-started.html)
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />](https://reactjs.org/)
+[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />](https://redux.js.org)
 
 </br>
 </br>

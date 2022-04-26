@@ -19,7 +19,6 @@
 </br>
 </br>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/javascript)
@@ -41,6 +40,7 @@
 </br>
 </br>
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="Gulp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />](https://gulpjs.com/)
 [<img align="left" alt="Webpack" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />](https://webpack.js.org/)
 [<img align="left" alt="Babel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />](https://babeljs.io/)
